@@ -1,2 +1,4 @@
-# gui
-java gui tutorials
+# GUI Playground
+
+Sample Project for java swing
+
