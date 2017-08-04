@@ -1,4 +1,4 @@
-package com.rosh.play;
+package com.demo.run;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
